@@ -12,4 +12,4 @@ transactions/ activities.
  
   4. Transfers table will record all transfers happened.
 
- Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers
+ Flow : Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers
